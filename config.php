@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
+        'title' => 'rnr druska bbznaaaaa 2.5 jevra',
         'description' => 'Personal blog of John Doe.',
         'image' => 'default-share.png',
     ],
